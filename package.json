@@ -1,0 +1,8 @@
+{
+  "name": "reactEmail",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "nodemailer": "^6.9.1",
+    "react": "^18.2.0"
+  }
+}
